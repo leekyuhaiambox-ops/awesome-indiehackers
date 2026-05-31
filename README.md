@@ -1,5 +1,9 @@
 ## 🤔 What is an Indie Hacker?
 
+
+- [Saju Fortune](https://tarofortune.pythonanywhere.com) - Korean four-pillars astrology calculator (EN+KR). Ad-supported, no signup. Solo-built on Flask + PythonAnywhere free tier. ~700 daily organic visits.
+- [Gyeonggi Currency Map](https://gyeonggi-currency-map.web.app) - 31-city local-currency merchant map PWA (Korea). Ad-supported. React + Firebase Hosting.
+- [GeoInfomatic — Living Zone Accessibility](https://geoinfomatic.pythonanywhere.com) - Korean neighborhood isochrone analyzer. Freemium ($7/mo Pro). Flask + Leaflet.
 An indie hacker is an independent creator who builds projects and makes money independently, without employees or external funding.
 
 ## 🧑‍💻 Indie Hackers
